@@ -16,3 +16,4 @@ Chinese version: https://github.com/udacity/cn-machine-learning
  - [创建用户分类 (非监督学习)](https://nbviewer.jupyter.org/github/qinhanmin2014/udacity-machine-learning-projects/blob/master/Chinese%20version/creating_customer_segments/customer_segments.ipynb)
  - [San Francisco Crime Classification (Kaggle)](https://github.com/qinhanmin2014/kaggle-San-Francisco-Crime-Classification)
  - [Rossmann Store Sales (Kaggle)](https://github.com/qinhanmin2014/kaggle-Rossmann-Store-Sales)
+ - [Toxic Comment Classification Challenge (Kaggle)](https://github.com/qinhanmin2014/kaggle-Toxic-Comment-Classification-Challenge)
