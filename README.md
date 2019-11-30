@@ -7,6 +7,7 @@ English version: https://github.com/udacity/machine-learning
  - [Building a Student Intervention System (Supervised Learning)](https://nbviewer.jupyter.org/github/qinhanmin2014/udacity-machine-learning-projects/blob/master/English%20version/student_intervention/student_intervention.ipynb)
  - [Finding Donors for CharityML (Supervised Learning)](https://nbviewer.jupyter.org/github/qinhanmin2014/udacity-machine-learning-projects/blob/master/English%20version/finding_donors/finding_donors.ipynb)
  - [Creating Customer Segments (Unsupervised Learning)](https://nbviewer.jupyter.org/github/qinhanmin2014/udacity-machine-learning-projects/blob/master/English%20version/customer_segments/customer_segments.ipynb)
+ - [TensorFlow Neural Network Lab](https://nbviewer.jupyter.org/github/qinhanmin2014/udacity-machine-learning-projects/blob/master/English%20version/intro-to-tensorflow/intro_to_tensorflow.ipynb)
 
 Chinese version: https://github.com/udacity/cn-machine-learning
 
